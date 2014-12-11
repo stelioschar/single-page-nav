@@ -1,0 +1,27 @@
+{
+  "name": "single-page-nav",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ChrisWojcik/single-page-nav",
+  "authors": [
+    "Chris Wojcik <hello@chriswojcik.net>"
+  ],
+  "description": "jQuery plugin that provides smooth scrolling and advanced navigation for single page websites.",
+  "main": "jquery.singlePageNav.js",
+  "keywords": [
+    "nav",
+    "navigation",
+    "single-page-navigation",
+    "single-page",
+    "singlepage",
+    "pagescroll",
+    "page-scroll"
+  ],
+  "license": "no",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
